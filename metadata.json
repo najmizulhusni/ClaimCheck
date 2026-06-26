@@ -1,0 +1,6 @@
+{
+  "name": "ClaimCheck",
+  "description": "A tool that helps employees in Malaysia find out if their expense can be claimed before they submit it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
